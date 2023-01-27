@@ -1,7 +1,7 @@
 
 import React, { useState } from "react";
 import mainlogo from './img/logo_5.png';
-import './css/forgot.css';
+import styled from './css/forgot.module.css';
 import confirmpin from './img/confirmpin.svg';
 
 function ConfirmPin() {
